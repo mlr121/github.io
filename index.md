@@ -19,3 +19,4 @@ I am a PhD candidate in the Integrated Program in Biochemistry at the University
   * *Advisor:* Dr. Joshua J. Coon[cite: 1]
 * **B.S. in Biological Chemistry** | Bates College (2020)[cite: 1]
   * *Minor:* Spanish | *Concentration:* Applying Mathematical Models[cite: 1]
+ 
