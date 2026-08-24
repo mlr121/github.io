@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Service",
+    "section": "",
+    "text": "Teaching Experience\n\nGeneral Chemistry Instructor | Madison Area Technical College (2026)[cite: 1]\nScientific Teaching Fellow | Wisconsin Institute for Science Education and Community Engagement (2026)[cite: 1]\nUndergraduate Research Scholar Advisor | UW–Madison (2025 – Present)[cite: 1]\nInstructor, Biochemistry 551 Seminar | UW–Madison (2025)[cite: 1]\n\n\n\nLeadership & DEI Initiatives\n\nSteering Committee Student Rep | Biochemistry, UW–Madison (2024 – 2026)[cite: 1]\nDiversity, Equity, and Inclusion Committee | Biomolecular Chemistry, UW–Madison (2023 – 2026)[cite: 1]"
+  },
+  {
+    "objectID": "computational.html",
+    "href": "computational.html",
+    "title": "Computational Work & Apps",
+    "section": "",
+    "text": "Bioinformatics & Proteomics Pipelines\n\nProteome-Wide QTL Mapping: R workflows for gene-protein-phenotype network mapping[cite: 1].\n\n\n\nInteractive Shiny Applications\nExplore live proteomics data visualizations directly below:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Margaret Lea Robinson",
+    "section": "",
+    "text": "I am a PhD candidate in the Integrated Program in Biochemistry at the University of Wisconsin–Madison[cite: 1] and an NIH T32 Biotechnology Training Program trainee in the Coon Lab[cite: 1]. My research develops proteomics methodology and bioinformatics tools to study metabolism and human disease[cite: 1].\n\nEducation\n\nPhD in Biochemistry | University of Wisconsin–Madison (2022 – Present)[cite: 1]\n\nAdvisor: Dr. Joshua J. Coon[cite: 1]\n\nB.S. in Biological Chemistry | Bates College (2020)[cite: 1]\n\nMinor: Spanish | Concentration: Applying Mathematical Models[cite: 1]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "Selected Publications\n\nRobinson, M.L., Salvachua, D., Bharadwaj, A., Nogues, V.S., and Linger, J. Clostridium tyrobutyricum proteome expression is largely affected by carbon source and pH during butyrate production. (In preparation, 2026)[cite: 1]\nRobinson, M.L., Benegiamo, G., Liu, W., Auwerx, J., and Coon, J.J. Proteome-wide QTL mapping enables gene-protein-phenotype network construction in a genetically diverse MASLD mouse model. (In review, 2026, bioRxiv DOI: 10.64898/2026.07.26.740836)[cite: 1]\nEckmann, J.B., et al. Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis. mSystems (2026)[cite: 1].\nSerrano, L.R., et al. SPE-CZE-MS Quantifies Zeptomole Amounts of Phosphorylated Peptides. Journal of Proteome Research (2025)[cite: 1].\nLancaster, N.M., et al. Fast and Deep Phosphoproteome Analysis with the Orbitrap Astral Mass Spectrometer. Nature Communications (2024)[cite: 1].\n\n\n\nResearch Appointments\n\nGraduate Research Assistant | Coon Lab, UW–Madison (2022 – Present)[cite: 1]\nGraduate Intern | National Lab of the Rockies (2025)[cite: 1]\nResearch Associate | Proteomics Platform, Broad Institute of MIT and Harvard (2020 – 2022)[cite: 1]"
+  }
+]
