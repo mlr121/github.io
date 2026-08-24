@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/mlrobinson3
+      href: https://github.com/mlr121
     - icon: envelope
       text: Email
       href: mailto:mlrobinson3@wisc.edu
