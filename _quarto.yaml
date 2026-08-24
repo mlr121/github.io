@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Margaret Lea Robinson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Publications
+      - href: computational.qmd
+        text: Computational & Apps
+      - href: teaching.qmd
+        text: Teaching & Leadership
+    right:
+      - icon: github
+        href: https://github.com/mlrobinson3
+      - icon: envelope
+        href: mailto:mlrobinson3@wisc.edu
+
+format:
+  html:
+    theme: cosmo
+    toc: true
